@@ -1,3 +1,5 @@
+THIS IS AN CHATGPT PAGE!
+
 # Dual-Domain Contextual Search (Vanilla JS)
 
 A simple website that lets users enter two domains and search content within them.
